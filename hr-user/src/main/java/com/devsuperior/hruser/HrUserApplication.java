@@ -21,7 +21,7 @@ public class HrUserApplication implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("BCRYPT = " +  passwordEncoder.encode("123456"));
+//		System.out.println("BCRYPT = " +  passwordEncoder.encode("123456"));
 	}
 	
 	
